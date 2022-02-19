@@ -1,0 +1,15 @@
+C:\Users\Usuario\Workspace\Nova pasta\DIO\bin\Debug\net6.0\DIO.exe
+C:\Users\Usuario\Workspace\Nova pasta\DIO\bin\Debug\net6.0\DIO.deps.json
+C:\Users\Usuario\Workspace\Nova pasta\DIO\bin\Debug\net6.0\DIO.runtimeconfig.json
+C:\Users\Usuario\Workspace\Nova pasta\DIO\bin\Debug\net6.0\DIO.dll
+C:\Users\Usuario\Workspace\Nova pasta\DIO\bin\Debug\net6.0\ref\DIO.dll
+C:\Users\Usuario\Workspace\Nova pasta\DIO\bin\Debug\net6.0\DIO.pdb
+C:\Users\Usuario\Workspace\Nova pasta\DIO\obj\Debug\net6.0\DIO.csproj.AssemblyReference.cache
+C:\Users\Usuario\Workspace\Nova pasta\DIO\obj\Debug\net6.0\DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Workspace\Nova pasta\DIO\obj\Debug\net6.0\DIO.AssemblyInfoInputs.cache
+C:\Users\Usuario\Workspace\Nova pasta\DIO\obj\Debug\net6.0\DIO.AssemblyInfo.cs
+C:\Users\Usuario\Workspace\Nova pasta\DIO\obj\Debug\net6.0\DIO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Workspace\Nova pasta\DIO\obj\Debug\net6.0\DIO.dll
+C:\Users\Usuario\Workspace\Nova pasta\DIO\obj\Debug\net6.0\ref\DIO.dll
+C:\Users\Usuario\Workspace\Nova pasta\DIO\obj\Debug\net6.0\DIO.pdb
+C:\Users\Usuario\Workspace\Nova pasta\DIO\obj\Debug\net6.0\DIO.genruntimeconfig.cache
